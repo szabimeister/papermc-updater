@@ -41,7 +41,7 @@ chmod +x runserver.sh
 ```  
   
 ***COPY LINE BY LINE***  
-***Your server should be starting up. If not, https://github.com/szabi1035/Minecraft-spigot-updater/issues***
+***Your server should be starting up. If not, https://github.com/szabi1035/papermc-updater/issues***
 
 
 ## Contributing
