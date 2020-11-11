@@ -28,12 +28,12 @@ copy the **update.sh**,**start.sh**,**buildtools_update.py**,and **runserverscri
 **First** You have to make the scripts executable by cd'ing to the directory and opening a terminal then typing:
 ```bash
 chmod +x update.sh
-chmod +x runserver.sh
+chmod +x start.sh
 ```
 *Then*
 ```bash
 ./update.sh
-./runserver.sh
+./start.sh
 ```  
   
 ***COPY LINE BY LINE***  
