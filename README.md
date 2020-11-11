@@ -1,9 +1,5 @@
 # papermc updater
  A papermc updater script written in Python
-# Minecraft-spigot-updater
- 
- A Spigot server updater Python script
- 
 ## Requirements
 
 On **Windows**:  
