@@ -1,3 +1,3 @@
 @echo off
-python buildtools_update.py
+python serverupdatescript.py
 pause

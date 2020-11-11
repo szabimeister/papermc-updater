@@ -1,3 +1,3 @@
 @echo off
-python runserver.py
+python runserverscript.py
 pause
